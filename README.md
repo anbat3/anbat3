@@ -5,7 +5,7 @@
 - IA
 - data analysis
 - conversational assistants
-- generatie AI
+- generative AI
 - machine/deep learning
 - computational linguistics
   
