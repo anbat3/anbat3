@@ -31,17 +31,17 @@
   
 ## 🛠️ Skills:
 
-- **Programming with Python:** NLTK, Spacy, sintactico, lexical and morphological parsing, POS tagging, entity extraction.
-- **Development of NLP applications:** Language analysis and generation, machine/deep learnign using sckit-learn, neural models,
-  transformers and LLMs through frameworks such as Hugging Face, LAngchain and OpenAI API
-- **Text Classficiation and Sentiment Analysis:** Automatic text classification and Sentiment Analysis with libraries such as TextBlob
-- **Conversational Assistant Design:** DEsigning and implkementing conversational assistants using frameworks like Rasa o DialogFlow
+- **Programming with Python:** NLTK, Spacy, sintactic, lexical and morphological parsing, POS tagging, entity extraction.
+- **Development of NLP applications:** Language analysis and generation, machine/deep learning using scikit-learn, neural models,
+  transformers and LLMs through frameworks such as Hugging Face, Langchain and OpenAI API.
+- **Text Classficiation and Sentiment Analysis:** Automatic text classification and sentiment analysis with libraries such as TextBlob.
+- **Conversational Assistant Design:** Designing and implementing conversational assistants using frameworks like Rasa or DialogFlow.
 - **Text Annotation and Linguistic Analysis:** Text annotation, corpus linguistics, XML data handling, data normalization using Regex,
   annotation tools, web scraping, database management, corpus handling, and data visualization with Matplotlib and Seaborn.
 
 ## 📄 Projects:
 
-- Currently working on a group master thesis: 
+- Currently working on a group master's thesis: 
 A multilingual conversational assistant (Spanish, English, French) for hate speech detection, using Rasa, applying transformer models (Hugging Face)
 and advanced NLP techniques, integrating data processing tools.
 
