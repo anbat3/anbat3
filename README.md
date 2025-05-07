@@ -13,6 +13,7 @@
 
 - text-to-speech and speech-to-text technologies
 - conversational assistants and generative AI
+- Programming with Java
   
 ## 📫 How to reach me:
 
