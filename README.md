@@ -3,16 +3,16 @@
 
 - PLN
 - IA
-- data analysis
-- conversational assistants
-- generative AI
-- machine/deep learning
-- computational linguistics
+- Data analysis
+- Conversational assistants
+- Generative AI
+- Machine/deep learning
+- Computational linguistics
   
 ## 🌱 I’m currently learning...
 
-- text-to-speech and speech-to-text technologies
-- conversational assistants and generative AI
+- Text-to-speech and speech-to-text technologies
+- Conversational assistants and generative AI
 - Programming with Java
   
 ## 📫 How to reach me:
@@ -22,7 +22,7 @@
   
 ## 😄 Pronouns:
 
-- she/her
+- She/her
 
 ## ⚡ Fun fact: 
 - I’m an English philologist who recently turned her world upside down to study a master’s in Computational Linguistics.
