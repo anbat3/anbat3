@@ -11,9 +11,9 @@
   
 ## 🌱 I’m currently learning...
 
-- Text-to-speech and speech-to-text technologies
-- Conversational assistants and generative AI
-- Programming with Java
+- Quant development
+- LLMs
+- Recursive prompt engineering
   
 ## 📫 How to reach me:
 
@@ -30,6 +30,7 @@
 - Before stepping into tech, I was a book editor — a role that sharpened my attention to detail and my appreciation for the mechanics of language.
 - There’s something thrilling about the “aha!” moment — that spark of insight after hours of wrestling with logic and syntax.
 - I believe that throughout life, you only get a handful of chances to make bold choices — and when they come, you have to take them.
+- Applying the last sentence, I am currently enrolled in an internships as a Quant Developer.
   
 ## 🛠️ Skills:
 
