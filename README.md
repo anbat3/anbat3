@@ -4,6 +4,7 @@
 - PLN
 - IA
 - Data analysis
+- Data Science
 - Conversational assistants
 - Generative AI
 - Machine/deep learning
@@ -14,6 +15,7 @@
 - Quant development
 - LLMs
 - Recursive prompt engineering
+- Data Science
   
 ## 📫 How to reach me:
 
@@ -25,12 +27,13 @@
 - She/her
 
 ## ⚡ Fun fact: 
-- I’m an English philologist who recently turned her world upside down to study a master’s in Computational Linguistics.
-- I’m passionate about all things language — from syntax trees and linguistic theory to the algorithms that try to mimic it.
+- I’m a Computational Linguist and English philologist who is making her first steps in the Data Science field.
+- I’m passionate about all things language — from syntax trees and linguistic theory to the algorithms that try to mimic it on LLMs.
 - Before stepping into tech, I was a book editor — a role that sharpened my attention to detail and my appreciation for the mechanics of language.
-- There’s something thrilling about the “aha!” moment — that spark of insight after hours of wrestling with logic and syntax.
+- I find something thrilling in the “aha!” moment after hours of wrestling with logic and syntax.
 - I believe that throughout life, you only get a handful of chances to make bold choices — and when they come, you have to take them.
 - Applying the last sentence, I am currently enrolled in an internships as a Quant Developer.
+- I am also looking for the next place to put everything I know into practice.
   
 ## 🛠️ Skills:
 
@@ -44,6 +47,13 @@
 
 ## 📄 Projects:
 
-- Currently working on a group master's thesis: 
+- **DEL.IA:**
 A multilingual conversational assistant (Spanish, English, French) for hate speech detection, using Rasa, applying transformer models (Hugging Face)
 and advanced NLP techniques, integrating data processing tools.
+
+- **Internship Project**
+A system that evaluates the relevance of news articles related to the oil market for investment decision-making. This involves fetching news articles from a MongoDB database, using large language models (LLMs) like GPT-4o and a smaller GPT-4.1-nano model to score each article's relevance asynchronously, comparing their outputs with statistical metrics, visualizing the differences, and saving detailed results. The goal is to create a robust, scalable, and parallelized pipeline to assess and benchmark model performance in classifying investment-relevant information from unstructured text sources.
+
+An experiment involving prompt optimization to align a lightweight language model (gpt-4.1-nano) with a more expert model (o3) for evaluating the relevance of news articles about the oil market using metrics like mean absolute error, standard deviation, and cosine similarity between explanations to iteratively improve prompt design.
+
+
