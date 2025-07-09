@@ -51,9 +51,9 @@
 A multilingual conversational assistant (Spanish, English, French) for hate speech detection, using Rasa, applying transformer models (Hugging Face)
 and advanced NLP techniques, integrating data processing tools.
 
-- **Internship Project**
-A system that evaluates the relevance of news articles related to the oil market for investment decision-making. This involves fetching news articles from a MongoDB database, using large language models (LLMs) like GPT-4o and a smaller GPT-4.1-nano model to score each article's relevance asynchronously, comparing their outputs with statistical metrics, visualizing the differences, and saving detailed results. The goal is to create a robust, scalable, and parallelized pipeline to assess and benchmark model performance in classifying investment-relevant information from unstructured text sources.
-
-An experiment involving prompt optimization to align a lightweight language model (gpt-4.1-nano) with a more expert model (o3) for evaluating the relevance of news articles about the oil market using metrics like mean absolute error, standard deviation, and cosine similarity between explanations to iteratively improve prompt design.
+- **Internship Project:**
+  - A system that evaluates the relevance of news articles related to the oil market for investment decision-making. This involves fetching news articles from a MongoDB database, using large language models (LLMs) like GPT-4o and a smaller GPT-4.1-nano model to score each article's relevance asynchronously, comparing their outputs with statistical metrics, visualizing the differences, and saving detailed results. The goal is to create a robust, scalable, and parallelized pipeline to assess and benchmark model performance in classifying investment-relevant information from unstructured text sources.
+  
+  - An experiment involving prompt optimization to align a lightweight language model (gpt-4.1-nano) with a more expert model (o3) for evaluating the relevance of news articles about the oil market using metrics like mean absolute error, standard deviation, and cosine similarity between explanations to iteratively improve prompt design.
 
 
