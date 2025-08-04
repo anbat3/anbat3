@@ -37,7 +37,7 @@
   
 ## 🛠️ Skills:
 
-- **Python PRogramming:** pandas, numpy, requests, json, regex, BeautifulSoup. Strong understanding of control flow, data structures, and modular design.
+- **Python Programming:** pandas, numpy, requests, json, regex, BeautifulSoup. Strong understanding of control flow, data structures, and modular design.
 - **Natural Language Processing (NLP):** POS tagging, syntactic and morphological parsing, named entity recognition (NER), sentiment analysis (TextBlob, VADER), semantic similarity.
 - **LLMs & Generative AI:** Experience with GPT. Prompt engineering (basic and recursive), fine-tuning concepts, evaluation with MAE, standard deviation, semantic coherence. **Tools:** LangChain, Hugging Face Transformers, OpenAI API, LlamaIndex.
 - **Conversational AI:** Design and development of virtual assistants using Rasa and DialogFlow. Integration of TTS and ASR modules.
