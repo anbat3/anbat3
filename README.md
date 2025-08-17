@@ -2,9 +2,7 @@
 ## 👀 I’m interested in...
 
 - PLN
-- IA
 - Data analysis
-- Data Science
 - Conversational assistants
 - Generative AI
 - Machine/deep learning
