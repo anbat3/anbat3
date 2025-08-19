@@ -49,10 +49,10 @@ Currently, I’m designing **intelligent filtering systems** using **multi-LLM a
 ## 📄 Projects:
 
 - **DEL.IA – Multilingual Conversational Assistant for Hate Speech Detection:** 
-- Developed in Spanish, English, and French using Rasa + Hugging Face Transformers.  
-- Integrated data pipelines for real-time hate speech classification and multilingual understanding.
+  - Developed in Spanish, English, and French using Rasa + Hugging Face Transformers.  
+  - Integrated data pipelines for real-time hate speech classification and multilingual understanding.
 
 - **Internship Project – AI-driven News Relevance Evaluation for Investment:**
-- Multi-model LLM pipeline with recursive prompt engineering for financial news analysis.  
-- Semantic classification, NER, sentiment analysis, knowledge graph construction.  
-- Interactive dashboards for performance evaluation and investment insights.
+  - Multi-model LLM pipeline with recursive prompt engineering for financial news analysis.  
+  - Semantic classification, NER, sentiment analysis, knowledge graph construction.  
+  - Interactive dashboards for performance evaluation and investment insights.
